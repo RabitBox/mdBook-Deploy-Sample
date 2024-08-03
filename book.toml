@@ -1,0 +1,6 @@
+[book]
+authors = ["G.Takakura"]
+language = "en"
+multilingual = false
+src = "src"
+title = "mdBook Deploy Sample"
